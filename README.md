@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Ugur Murat Altintas
 
-<!--
-**vaur94/vaur94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C# Developer & Rust Enthusiast | Building finance/trading tools | Open source contributor
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**
+
+`C#` `.NET` `Rust` `TypeScript` `Dart` `Tauri`
+
+**Current Projects**
+
+- **[bist-rs](https://github.com/vaur94/bist-rs)** — Borsa Istanbul (BIST) data library for Rust. TradingView + Yahoo Finance backends, CLI tool included.
+- **[efatura-dotnet](https://github.com/vaur94/efatura-dotnet)** — Modern .NET 8 library for Turkish e-Invoice (e-Fatura/e-Arsiv) integration. UBL-TR 1.2.1 compliant.
+
+**Open Source Contributions**
+
+- **[Spectre.Console](https://github.com/spectreconsole/spectre.console)** — Turkish README translation ([PR #2146](https://github.com/spectreconsole/spectre.console/pull/2146))
+- **[QuantConnect/Lean](https://github.com/QuantConnect/Lean)** — TD Sequential candlestick indicator implementation ([PR #9521](https://github.com/QuantConnect/Lean/pull/9521))
+- **[Novu](https://github.com/novuhq/novu)** — Complete Turkish localization for notification center
+
+**Interests**
+
+Algorithmic trading, financial data engineering, Borsa Istanbul, developer tooling, cross-platform desktop apps with Tauri.
